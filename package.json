@@ -1,0 +1,13 @@
+{
+  "name": "dbuggr-chrome-remote-debugging",
+  "version": "0.0.0",
+  "description": "TesTesting Chrome's remote debugging protocol and facilities",
+  "author": {
+    "name": "Stefan Lehmann",
+    "email": "stefan.lehmann@hpi.de",
+    "url": "https://github.com/onsetsu"
+  },
+  "dependencies": {
+    "node-inspector": "^0.12.8"
+  }
+}
